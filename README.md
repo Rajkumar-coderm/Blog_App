@@ -26,9 +26,9 @@ Lets make a simple blog app with only the home page functional. a user should be
 #install packege
 
 `
-$npm init<br>
-$npm install mysql<br>
-$npm install express nodemon jsonwebtoken <br>
-$npm install knex<br>
+npm init<br>
+npm install mysql<br>
+npm install express nodemon jsonwebtoken <br>
+npm install knex<br>
 
 `
